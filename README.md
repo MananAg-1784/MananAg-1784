@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MananAg-1784
-- 👀 I'm interested in learning Python and Web Development
+- 👀 I'm interested in learning Python, C and Web Development
 - 🌱 I’m currently learning Java Script and Frameworks
 - 📫 Reach me mananagarwal1784@gmail.com
