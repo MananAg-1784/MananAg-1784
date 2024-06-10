@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MananAg-1784
-- 👀 I'm interested in Web Development and Designing
-- 🌱 I’m currently learning Java Script and Frameworks
+- 👀 I'm a Web Designer and Developer
+- 🌱 I’m currently learning ML and AI
 - 📫 Reach me mananagarwal1784@gmail.com
