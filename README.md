@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MananAg-1784
-- 👀 I'm a Web Designer and Developer
-- 🌱 I’m currently learning ML and AI
+- 👀 I'm a Web Designer and Python Developer
+- 🌱 I’m currently learning ML and Data Analysis
 - 📫 Reach me mananagarwal1784@gmail.com
+- 👥 Visit my Website at manan-portfolio.ddns.net
