@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MananAg-1784
-- 👀 I'm a Web Designer and Python Developer
-- 🌱 I’m currently learning ML and Data Analysis
+- 👋 Hi, I’m Manan Agarwal
+- 👀 I'm a Software Developer
 - 📫 Reach me mananagarwal1784@gmail.com
 - 👥 Visit my Website at [manan-portfolio.ddns.net](https://manan-portfolio.ddns.net)
 - 👩‍💻 Watch my LeetCode journey [here](https://leetcode.com/u/Manan_1784/)
